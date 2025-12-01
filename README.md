@@ -4,7 +4,8 @@
 
 <img src="https://github.com/atdevlk/atdevlk/blob/04fb2395165e4e6fea5e1f37838a5a8d83a636a8/20251130_095942.png">
 
-
+<p>🧑‍🎓Still learning</p>
+<p>🔵 Python <br>🟢 JavaScript<br>🟣 PHP<br>🔴 HTML<br>🟤CSS</p>
 
 <!--
 **atdevlk/atdevlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
