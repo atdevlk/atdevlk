@@ -8,4 +8,4 @@
 <p>🧑‍🎓Still learning</p>
 <p>🔵 Python <br>🟢 JavaScript<br>🟣 PHP<br>🔴 HTML<br>🟤CSS</p>
 
-<a herf="https://youtube.com/@atdevlk?si=EO0W0nYLccfoSpQP"><img src="https://github.com/atdevlk/atdevlk/blob/76b10e069aada5eceb965c069c00f1aaa25f9c77/icons8-youtube-48.png" with="40px"></a>
+<img src="https://github.com/atdevlk/atdevlk/blob/76b10e069aada5eceb965c069c00f1aaa25f9c77/icons8-youtube-48.png" with="40px" onclick="https://youtube.com/@atdevlk?si=EO0W0nYLccfoSpQP">
